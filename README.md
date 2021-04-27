@@ -4,7 +4,7 @@ About Me:
 
 - 🎓 I’m currently studying on   <b> <i> <font color="#6BCBF5">ARISTOTLE UNIVERSITY OF THESSALONIKI</font> </i></b> ( https://www.csd.auth.gr/en/ )
 - 👯 I’m looking to collaborate on Any Group Project
-- 📫 How to reach me: dimeragon@gmail.com || insta : @dimitris_trama
+- 📫 How to reach me: dimeragon@gmail.com || insta :  <a href="https://www.instagram.com/dimitris_trama/">@dimitris_trama</a>
 
 Skills:
 
