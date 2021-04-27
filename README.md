@@ -2,7 +2,7 @@
 
 About Me:
 
-- 🎓 I’m currently studying on <b> <i> <font color="blue">ARISTOTLE UNIVERSITY OF THESSALONIKI </font> </i></b> ( https://www.csd.auth.gr/en/ )
+- 🎓 I’m currently studying on <b> <i> <font color="blue"> ARISTOTLE UNIVERSITY OF THESSALONIKI </font> </i></b> ( https://www.csd.auth.gr/en/ )
 - 👯 I’m looking to collaborate on Any Group Project
 - 📫 How to reach me: dimeragon@gmail.com || insta : @dimitris_trama
 
