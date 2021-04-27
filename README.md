@@ -14,6 +14,7 @@
 - ⭐⭐       python
 
 <h1>General Info :</h1>
+
 - WebPages:
 	- React FrameWork (Most confident out of everything)
 	- Plain html,css,javascript
@@ -36,7 +37,7 @@
 
 
 <h1>NOTE :</h1>
-- <a href="https://github.com/jimtrama?tab=projects"> <b>SEE</b> PROJECTS FOR LANGS RELATED REPOS + COMBINED REPOS TO FORM AN APP 👀 </a></br>
+- <a href="https://github.com/jimtrama?tab=projects"> <b>SEE</b> PROJECTS FOR LANGS RELATED REPOS + COMBINED REPOS TO FORM AN APP 👀 </a>
 
 
             
