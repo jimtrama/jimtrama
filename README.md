@@ -1,9 +1,10 @@
-### Hi there 👋
 <style>
 	.link{
 		font-style:italic;
 	}
 </style>
+### Hi there 👋
+
 About Me:
 
 - 🎓 I’m currently studying on  <a class="link" href="https://www.csd.auth.gr/en/" > <b>  ARISTOTLE UNIVERSITY OF THESSALONIKI </b> </a><div>
