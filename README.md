@@ -1,8 +1,8 @@
-<style>
+
 	.link{
 		font-style:italic;
 	}
-</style>
+
 ### Hi there 👋
 
 About Me:
