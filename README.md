@@ -36,7 +36,7 @@ Skills:
 </-----General Info------>
 
 <-----NOTE----->
-##http://jim.com 👀 <-
+## http://jim.com 👀 <-
 SEE PROJECTS FOR LANGS RELATED REPOS + COMBINED REPOS TO FORM AN APP
 </----NOTE----->
             
