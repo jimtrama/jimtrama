@@ -19,7 +19,7 @@ Skills:
 	Plain html,css,javascript
 	NOT Angular
 
--MobileDev:
+- MobileDev:
 	React Native:
 		one project (helped a lot the exp from React)
 	Android:
@@ -27,7 +27,7 @@ Skills:
 	IOS:
 		never Worked on it (if same theory with Android applies i would give it a go)
 
--WebAutomations:
+- WebAutomations:
 	almost done everything there is to it 
 	except hard Captchas from Google
 	Gmail can't do it is blocked by google 
