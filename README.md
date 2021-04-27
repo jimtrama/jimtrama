@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-About Me:
+<h1>About Me :</h1>
 
 - 🎓 I’m currently studying on  <a href="https://www.csd.auth.gr/en/" > <b><i>  ARISTOTLE UNIVERSITY OF THESSALONIKI </i></b> </a>
 - 👯 I’m looking to collaborate on Any Group Project
 - 📫 How to reach me: dimeragon@gmail.com || insta :  <a href="https://www.instagram.com/dimitris_trama/">@dimitris_trama</a>
 
-Skills:
+<h1>Skills :</h1>
 
 - ⭐⭐⭐⭐⭐ ReactJs,Javascript
 - ⭐⭐⭐⭐   Java,Node
 - ⭐⭐⭐     C++
 - ⭐⭐       python
 
-<-----General Info------>
+<h1>General Info :</h1>
 - WebPages:
 	- React FrameWork (Most confident out of everything)
 	- Plain html,css,javascript
@@ -33,12 +33,12 @@ Skills:
 	Gmail can't do it is blocked by google 
 	- langs used for it (C#,Python,Java) with selenium
   
-</-----General Info------>
 
-<-----NOTE----->
+
+<h1>NOTE :</h1>
 - <a href="https://github.com/jimtrama?tab=projects"> <b>SEE</b> PROJECTS FOR LANGS RELATED REPOS + COMBINED REPOS TO FORM AN APP 👀 </a></br>
 
-</----NOTE----->
+
             
 
 
