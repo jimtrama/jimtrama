@@ -15,9 +15,9 @@ Skills:
 
 <-----General Info------>
 - WebPages:
-	React FrameWork (Most confident out of everything)
-	Plain html,css,javascript
-	NOT Angular
+	- React FrameWork (Most confident out of everything)
+	- Plain html,css,javascript
+	- NOT Angular
 
 - MobileDev:
 	- React Native:
@@ -28,10 +28,10 @@ Skills:
 		never Worked on it (if same theory with Android applies i would give it a go)
 
 - WebAutomations:
-	almost done everything there is to it 
+	- almost done everything there is to it 
 	except hard Captchas from Google
 	Gmail can't do it is blocked by google 
-	langs used for it (C#,Python,Java) with selenium
+	- langs used for it (C#,Python,Java) with selenium
   
 </-----General Info------>
 
