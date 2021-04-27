@@ -1,8 +1,12 @@
 ### Hi there 👋
-
+<style>
+	.link{
+		font-style:italic;
+	}
+</style>
 About Me:
 
-- 🎓 I’m currently studying on  <a style=" color: #6BCBF5; font-style:italic; " href="https://www.csd.auth.gr/en/" > <b>  ARISTOTLE UNIVERSITY OF THESSALONIKI </b> </a><div>
+- 🎓 I’m currently studying on  <a class="link" href="https://www.csd.auth.gr/en/" > <b>  ARISTOTLE UNIVERSITY OF THESSALONIKI </b> </a><div>
 - 👯 I’m looking to collaborate on Any Group Project
 - 📫 How to reach me: dimeragon@gmail.com || insta :  <a href="https://www.instagram.com/dimitris_trama/">@dimitris_trama</a>
 
