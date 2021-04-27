@@ -2,7 +2,7 @@
 
 <h1>About Me :</h1>
 
-- 🎓 I’m currently in the 3ed/4years of <u> Informatics </u>studies  at  <a href="https://www.csd.auth.gr/en/" > <b><i>  ARISTOTLE UNIVERSITY OF THESSALONIKI </i></b> </a> 
+- 🎓 I’m currently in the 3ed/4years of <u> Informatics </u> studies  at  <a href="https://www.csd.auth.gr/en/" > <b><i>  ARISTOTLE UNIVERSITY OF THESSALONIKI </i></b> </a> 
 - 👯 I’m looking to collaborate on Any Group Project
 - 📫 How to reach me: dimeragon@gmail.com || insta :  <a href="https://www.instagram.com/dimitris_trama/">@dimitris_trama</a>
 
