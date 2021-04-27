@@ -1,16 +1,44 @@
 ### Hi there 👋
 
-<!--
-**jimtrama/jimtrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
 
-Here are some ideas to get you started:
+- 🎓 I’m currently studying on ARISTOTLE UNIVERSITY OF THESSALONIKI ( https://www.csd.auth.gr/en/ )
+- 👯 I’m looking to collaborate on Any Group Project
+- 📫 How to reach me: dimeragon@gmail.com || insta : @dimitris_trama
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+
+- ⭐⭐⭐⭐⭐ ReactJs,Javascript
+- ⭐⭐⭐⭐   Java,Node
+- ⭐⭐⭐     C++
+- ⭐⭐       python
+
+<-----General Info------>
+- WebPages:
+	React FrameWork (Most confident out of everything)
+	Plain html,css,javascript
+	NOT Angular
+
+-MobileDev:
+	React Native:
+		one project (helped a lot the exp from React)
+	Android:
+		oneProject AndroidStudio (Java)(helped a lot the exp of webpages layouts *css)
+	IOS:
+		never Worked on it (if same theory with Android applies i would give it a go)
+
+-WebAutomations:
+	almost done everything there is to it 
+	except hard Captchas from Google
+	Gmail can't do it is blocked by google 
+	langs used for it (C#,Python,Java) with selenium
+  
+</-----General Info------>
+
+<-----NOTE---->
+SEE PROJECTS FOR LANGS RELATED REPOS + COMBINED REPOS TO FORM AN APP
+</-----NOTE---->
+            
+
+
+
