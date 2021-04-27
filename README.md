@@ -20,11 +20,11 @@ Skills:
 	NOT Angular
 
 - MobileDev:
-	React Native:
+	- React Native:
 		one project (helped a lot the exp from React)
-	Android:
+	- Android:
 		oneProject AndroidStudio (Java)(helped a lot the exp of webpages layouts *css)
-	IOS:
+	- IOS:
 		never Worked on it (if same theory with Android applies i would give it a go)
 
 - WebAutomations:
