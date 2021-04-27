@@ -1,13 +1,8 @@
-
-	.link{
-		font-style:italic;
-	}
-
 ### Hi there 👋
 
 About Me:
 
-- 🎓 I’m currently studying on  <a class="link" href="https://www.csd.auth.gr/en/" > <b>  ARISTOTLE UNIVERSITY OF THESSALONIKI </b> </a><div>
+- 🎓 I’m currently studying on  <a href="https://www.csd.auth.gr/en/" > <b><i>  ARISTOTLE UNIVERSITY OF THESSALONIKI </i></b> </a>
 - 👯 I’m looking to collaborate on Any Group Project
 - 📫 How to reach me: dimeragon@gmail.com || insta :  <a href="https://www.instagram.com/dimitris_trama/">@dimitris_trama</a>
 
@@ -41,7 +36,7 @@ Skills:
 </-----General Info------>
 
 <-----NOTE----->
-- SEE PROJECTS FOR LANGS RELATED REPOS + COMBINED REPOS TO FORM AN APP 👀 -> ( https://github.com/jimtrama?tab=projects )</br>
+- <a href="https://github.com/jimtrama?tab=projects"> <b>SEE</b> PROJECTS FOR LANGS RELATED REPOS + COMBINED REPOS TO FORM AN APP 👀 </a></br>
 
 </----NOTE----->
             
