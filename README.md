@@ -2,29 +2,29 @@
 
 <h1>About Me :</h1>
 
-- 🎓 I’m currently in the 3ed/4years of <b><i>Informatics</i></b> studies  at  <a href="https://www.csd.auth.gr/en/" > <b><i>  ARISTOTLE UNIVERSITY OF THESSALONIKI </i></b> </a> 
+- 🎓 I’m currently post Grad student of <b><i>Informatics</i></b> studies  at  <a href="https://www.csd.auth.gr/en/" > <b><i>  ARISTOTLE UNIVERSITY OF THESSALONIKI </i></b> </a> 
 - 👯 I’m looking to collaborate on Any Group Project
-- 📫 How to reach me: dimeragon@gmail.com || insta :  <a href="https://www.instagram.com/dimitris_trama/">@dimitris_trama</a>
+- 📫 How to reach me: dimeragon@gmail.com 
 
 <h1>Skills :</h1>
 
-- ⭐⭐⭐⭐⭐ ReactJs,Javascript
+- ⭐⭐⭐⭐⭐ ReactJs,Javascript,Typescript
 - ⭐⭐⭐⭐   Java,Node
 - ⭐⭐⭐     C++
-- ⭐⭐       python
+- ⭐⭐⭐      python
 
 <h1>General Info :</h1>
 
 - WebPages:
 	- React FrameWork (Most confident out of everything)
 	- Plain html,css,javascript
-	- NOT Angular
+	- excited to learn Angular
 
 - MobileDev:
 	- React Native:
-		one project (helped a lot the exp from React)
+		one project (the exp from React helped a lot !)
 	- Android:
-		oneProject AndroidStudio (Java)(helped a lot the exp of webpages layouts *css)
+		oneProject AndroidStudio (Java)
 	- IOS:
 		never Worked on it (if same theory with Android applies i would give it a go)
 
