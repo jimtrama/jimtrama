@@ -37,7 +37,7 @@
 
 
 <h1>NOTE :</h1>
-- <a href="https://github.com/jimtrama?tab=projects"> <b>SEE</b> PROJECTS FOR LANGS RELATED REPOS + COMBINED REPOS TO FORM AN APP 👀 </a>
+- <a href="[https://github.com/jimtrama?tab=projects](https://github.com/jimtrama?tab=repositories)"> <b>SEE</b> 👀 MY REPOS </a>
 
 
             
