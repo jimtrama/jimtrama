@@ -37,7 +37,7 @@
 
 
 <h1>NOTE :</h1>
-- <a href="[https://github.com/jimtrama?tab=projects](https://github.com/jimtrama?tab=repositories)"> <b>SEE</b> 👀 MY REPOS </a>
+- <a href="https://github.com/jimtrama?tab=repositories"> <b>SEE</b> 👀 MY REPOS </a>
 
 
             
