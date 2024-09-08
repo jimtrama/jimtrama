@@ -8,8 +8,8 @@
 
 <h1>Skills :</h1>
 
-- ⭐⭐⭐⭐⭐ ReactJs,Javascript,Typescript
-- ⭐⭐⭐⭐   Java,Node
+- ⭐⭐⭐⭐⭐ React, Angular, Javascript, Typescript
+- ⭐⭐⭐⭐   Java, Node
 - ⭐⭐⭐     C++
 - ⭐⭐⭐      python
 
@@ -17,14 +17,14 @@
 
 - WebPages:
 	- React FrameWork (Most confident out of everything)
-	- Plain html,css,javascript
+	- Plain HTML, CSS, javascript
 	- excited to learn Angular
 
 - MobileDev:
 	- React Native:
 		one project (the exp from React helped a lot !)
 	- Android:
-		oneProject AndroidStudio (Java)
+		one project AndroidStudio (Java)
 	- IOS:
 		never Worked on it (if same theory with Android applies i would give it a go)
 
