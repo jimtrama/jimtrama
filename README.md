@@ -4,7 +4,7 @@
 
 - 🎓 I’m currently post Grad student of <b><i>Informatics</i></b> studies  at  <a href="https://www.csd.auth.gr/en/" > <b><i>  ARISTOTLE UNIVERSITY OF THESSALONIKI </i></b> </a> 
 - 👯 I’m looking to collaborate on Any Group Project
-- 📫 How to reach me: dimeragon@gmail.com 
+
 
 <h1>Skills :</h1>
 
