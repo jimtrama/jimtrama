@@ -2,7 +2,7 @@
 
 <h1>About Me :</h1>
 
-- 🎓 I’m currently a student of <b><i>Informatics</i></b> studies  at  <a href="https://www.csd.auth.gr/en/" > <b><i>  ARISTOTLE UNIVERSITY OF THESSALONIKI </i></b> </a> 
+- 🎓 I’m a graduate of <b><i>Informatics</i></b> studies  at  <a href="https://www.csd.auth.gr/en/" > <b><i>  ARISTOTLE UNIVERSITY OF THESSALONIKI </i></b> </a> 
 - 👯 I’m looking to collaborate on Any Group Project
 
 
