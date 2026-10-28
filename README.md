@@ -16,23 +16,14 @@
 <h1>General Info :</h1>
 
 - WebPages:
-	- React FrameWork (Most confident out of everything)
-	- Plain HTML, CSS, javascript
-	- excited to learn Angular
+	- Angular FrameWork (Most confident out of everything)
 
 - MobileDev:
 	- React Native:
-		one project (the exp from React helped a lot !)
 	- Android:
-		one project AndroidStudio (Java)
-	- IOS:
-		never Worked on it (if same theory with Android applies i would give it a go)
 
 - WebAutomations:
-	- almost done everything there is to it 
-	except hard Captchas from Google
-	Gmail can't do it is blocked by google 
-	- langs used for it (C#,Python,Java) with selenium
+	(C#,Python,Java) selenium
   
 
 
