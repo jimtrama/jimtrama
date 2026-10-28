@@ -10,8 +10,8 @@
 
 - ⭐⭐⭐⭐⭐ React, Angular, Typescript, SCSS, HTML 
 - ⭐⭐⭐⭐   Java(Selenium, Robot Processing ), Node (express , Mongo)
-- ⭐⭐⭐     C++ (Data structures)
-- ⭐⭐⭐     python ( ai, Ml )
+- ⭐⭐⭐⭐⭐     C++ (Data structures)
+- ⭐⭐⭐⭐     python ( ai, Ml )
 
 <h1>General Info :</h1>
 
